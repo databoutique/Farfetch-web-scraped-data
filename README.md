@@ -1,0 +1,14 @@
+# Farfetch web scraped data 
+
+## About the website
+
+Farfetch is a British-Portuguese online luxury fashion retail platform **founded in 2007** by Portuguese entrepreneur José Neves. With its head office located in London, UK, the company also operates from offices in Portugal, Los Angeles, Tokyo, Shanghai and Brazil among others. Farfetch operates a unique business model, in which it doesn	 hold any inventory but acts as a marketplace that connects buyers and sellers globally. The companys sales come mainly from commissions on the sales of third-party vendors. **Farfetch went public on the New York Stock Exchange** (symbol: FTCH) on September 21st, 2018, raising approximately $885 million and achieving a market cap of nearly $6.2 billion at the IPO. More information about Farfetch can be found on its [Wikipedia](https://en.wikipedia.org/wiki/Farfetch) page and [Bloomberg](https://www.bloomberg.com/profile/company/FTCH:US) page.
+
+Some of **Farfetchs main competitors** in the fashion e-commerce market include Net-A-Porter, MatchesFashion, and SSENSE. [Net-A-Porter](https://www.net-a-porter.com/) is a premier online luxury fashion destination founded by Natalie Massenet in 2000. The company operates on a similar business model as Farfetch, but in addition to selling designer clothes and accessories, it also offers content such as fashion news and trends. MatchesFashion, a UK based company like Farfetch, is a global luxury-shopping site that blends online shopping with retail boutiques. [SSENSE](https://www.ssense.com/), on the other hand, is a Canadian luxury retailer that offers a curated selection of over 500 emerging designers and established brands. 
+
+One of the benefits of **web scraping for a company like Farfetch** is to use this factual data to make more informed business decisions. For example, data scrapers can be used to scrape pricing and discount information from competitor websites to assess their pricing strategies and make adjustments accordingly. They can also use the data to track price fluctuations over time, find out when competitors are offering sales and discounts, and reduce their prices or run promotions in order to stay competitive. Web scraped data could also help them conduct market research, where they can analyze what kind of products are popular, what brands people are buying most, what are the current fashion trends, among other things. This data could help them make decisions on what products to add to their platform, how to price them, how much inventory to maintain and at what times, etc. Overall, web scraped data can enable businesses to make data-driven decisions, stay competitive, and increase sales and revenue.
+
+
+## Link to **dataset**
+
+[Farfetch dataset](https://www.databoutique.com/buy-data-list-subset/Farfetch%20web%20scraped%20data/r/recnDOxe6YYa3C7Ib)
